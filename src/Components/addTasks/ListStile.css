@@ -1,0 +1,14 @@
+li {
+  background-color: #770080a1;
+  font-size: 24px;
+  padding: 5px 0px;
+  padding-left: 13px;
+  list-style: none;
+  color: #fff;
+  margin-top: 20px;
+}
+.listStyle button {
+  font-size: 17px;
+  padding: 4px 10px;
+  box-shadow: 2px 3px #0000005c;
+}
