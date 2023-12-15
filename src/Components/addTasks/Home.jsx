@@ -2,7 +2,7 @@
 import "./Home.css";
 import React, { useReducer } from "react";
 import AddTasks from "./AddTasks";
-import ListTask from "./listTask";
+import ListTask from "./ListTask";
 
 const tasksReducer = (tasks, action) => {
   if (action.type === "ADD") {
